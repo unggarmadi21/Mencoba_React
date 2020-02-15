@@ -1,0 +1,30 @@
+.container h1 {
+  color: #ffffff;
+  font-size: 82;
+  font-weight: 700;
+  font-style: bold;
+  font-variant: initial;
+}
+
+.container p {
+  color: #c4c4c4;
+  font-family: Inter;
+  margin-top: 3%;
+  margin-right: 10%;
+}
+
+.container .text {
+  color: #074ee8;
+  font-size: 32;
+  font-weight: Bold;
+  font-family: inherit;
+  margin-top: 5%;
+  margin-bottom: 10%;
+}
+.container .mt-5 {
+  color: #ffffff;
+}
+
+.container .mt-3 {
+  color: #ffffff;
+}
